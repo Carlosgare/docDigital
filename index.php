@@ -127,7 +127,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center mx-auto my-auto">
             <h1 class="text-white">DocDigital</h1>
-            <p class="mb-4 text-white">Doctor Digital, es la aplicación web de video consulta médica que te
+            <p class="mb-4 text-white">Doctor Digital, es la aplicación web de video-consulta médica que te
               permitirá</br>
               obtener una orientación médica de
               forma privada y segura. Así evitarás desplazamientos y esperas.</p>
